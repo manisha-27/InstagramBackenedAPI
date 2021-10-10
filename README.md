@@ -1,7 +1,7 @@
 # InstagramBackenedAPI
 
 
-## 1. Created Member1 User in the CREATE USER
+### 1. Created Member1 User in the CREATE USER
 
 - Input
 ```
@@ -12,7 +12,7 @@
 }
 ```
 
-## 2. Input the request CREATE USER: `http://localhost:9000/users`
+### 2. Input the request CREATE USER: `http://localhost:9000/users`
 ![CreateUserId](https://user-images.githubusercontent.com/67019423/136685574-6ffb427e-2b27-41c6-94c3-058fe97ca7e9.png)
 
 
@@ -27,7 +27,7 @@
 }
 ```
 
-## 4. Input the request in the GET USER ID: `http://localhost:9000/users/6162846c0d336b6e985185c9`
+### 4. Input the request in the GET USER ID: `http://localhost:9000/users/6162846c0d336b6e985185c9`
 
 ### 5: Got the data from the requested id:
 ```
@@ -41,13 +41,13 @@
 
 ![GetPost](https://user-images.githubusercontent.com/67019423/136685582-6f938e7d-2d68-4b06-839d-adc900816ec5.png)
 
-## 6. Database Created by requesting all the data from the users's server from the postman api
+### 6. Database Created by requesting all the data from the users's server from the postman api
 
 ![usersDatabase](https://user-images.githubusercontent.com/67019423/136685589-fb3a0a6f-77aa-40a1-97f2-02ec68c8adaa.png)
 
 
-## 7. Created ID for Member1 User's Post in the CREATE POST
-## 8. Input the request CREATE USER: `http://localhost:9000/posts`
+### 7. Created ID for Member1 User's Post in the CREATE POST
+### 8. Input the request CREATE USER: `http://localhost:9000/posts`
 
 - Input
 ```
@@ -71,7 +71,7 @@
 }
 ```
 
-## 10. Input the request in the GET USER ID: `http://localhost:9000/posts/616286030d336b3fdc55db58`
+### 10. Input the request in the GET USER ID: `http://localhost:9000/posts/616286030d336b3fdc55db58`
 
 ### 11: Got the data from the requested post:
 ```
@@ -86,6 +86,6 @@
 
 ![GetUserId](https://user-images.githubusercontent.com/67019423/136685587-257228c1-e216-4f6d-a762-49bcf4840ca5.png)
 
-## 12. Database Created by requesting all the data from the posts's server from the postman api
+### 12. Database Created by requesting all the data from the posts's server from the postman api
 
 ![postsDatabase](https://user-images.githubusercontent.com/67019423/136685588-705245ab-55d3-4f3c-bc25-7e787518228f.png)
